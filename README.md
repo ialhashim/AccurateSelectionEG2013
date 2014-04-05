@@ -9,6 +9,8 @@ Original source code and paper at: http://www0.cs.ucl.ac.uk/staff/K.Subr/researc
 
 All credit goes to original others. This is simply a port to Windows with a basic GUI.
 
-
+###GUI 
 <img src="bin/input.png" alt="GUI" style="width:25%"/>
+
+###Output
 <img src="bin/output.png" alt="Output" style="width:25%"/>
